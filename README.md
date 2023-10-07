@@ -2,11 +2,11 @@
 <h2> Seja, bem vindo!</h2>
 </div>
 </br>
-- 👋 Olá, me chamo Alexsandro Souza
-- 👀 trabalhando com as liguagem no-code low-code
-- 📚 Cursando Analise e desenvolvimento de sistema
-- 📫 Estudando HTLM, CSS e Javascrip
-- ✅ Faço parte da comunidade sem coda
+- 👋 Olá, me chamo Alexsandro Souza</br>
+- 👀 trabalhando com as liguagem no-code low-code</br>
+- 📚 Cursando Analise e desenvolvimento de sistema</br>
+- 📫 Estudando HTLM, CSS e Javascrip</br>
+- ✅ Faço parte da comunidade sem coda</br>
 </br>
 <div align="center">
   <div align="center">
