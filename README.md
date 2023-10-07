@@ -39,4 +39,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Alexsandr0s/count.svg" /></p>
 
 
-![snake gif](https://github.com/Alexsandr0s/Alexsandr0s/blob/output/github-contribution-grid-snake.svg)
+
