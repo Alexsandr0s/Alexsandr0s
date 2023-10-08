@@ -40,3 +40,6 @@
 
 
 
+![snake gif](https://github.com/Alexsandr0s/Alexsandr0s/blob/output/github-contribution-grid-snake.svg)
+
+
