@@ -41,6 +41,7 @@
 
 
 
-![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-user-contribution.svg)
+
+![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-user-contribution-dark.svg#gh-dark-mode-only)![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-user-contribution.svg#gh-light-mode-only)
 
 
