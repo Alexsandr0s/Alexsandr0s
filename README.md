@@ -41,6 +41,6 @@
 
 
 
-![snake gif](https://github.com/Alexsandr0s/Alexsandr0s/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-contribution-grid-snake.svg)
 
 
