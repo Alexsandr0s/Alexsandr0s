@@ -3,10 +3,13 @@
 </div>
 </br>
 - 👋 Olá, me chamo Alexsandro Souza</br>
-- 👀 trabalhando com as liguagem no-code low-code</br>
+- 👀 Tenho mais afinidade com as liguagem no-code low-code</br>
 - 📚 Cursando Analise e desenvolvimento de sistema</br>
 - 📫 Estudando HTLM, CSS e Javascrip</br>
 - ✅ Faço parte da comunidade sem coda</br>
+- Um dos meus hobbies e cozinha 👨‍🍳 😋
+-  🎮 Gosto de jogos de moba jogando 💻 "DOTA" e FPS multijogadores jogando "COD"
+Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer novas amizades.🏆 </br>
 </br>
 <div align="center">
   <div align="center">
@@ -42,6 +45,6 @@
 
 
 
-![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-user-contribution-dark.svg#gh-dark-mode-only)![snake gif](https://raw.githubusercontent.com/Alexsandr0s/Alexsandr0s/output/github-user-contribution.svg#gh-light-mode-only)
+
 
 
