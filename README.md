@@ -4,7 +4,7 @@
 </br>
 - 👋 Olá, me chamo Alexsandro Souza</br>
 - 👀 Tenho mais afinidade com as liguagem no-code low-code</br>
-- 📚 Cursando Analise e desenvolvimento de sistema</br>
+- 📚 Cursando Analise e desenvolvimento de sistema ADS</br>
 - 📫 Estudando HTLM, CSS e Javascrip</br>
 - ✅ Faço parte da comunidade sem coda</br>
 - Um dos meus hobbies e cozinha 👨‍🍳 😋 </br>
