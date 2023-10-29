@@ -7,8 +7,8 @@
 - 📚 Cursando Analise e desenvolvimento de sistema</br>
 - 📫 Estudando HTLM, CSS e Javascrip</br>
 - ✅ Faço parte da comunidade sem coda</br>
-- Um dos meus hobbies e cozinha 👨‍🍳 😋
--  🎮 Gosto de jogos de moba jogando 💻 "DOTA" e FPS multijogadores jogando "COD"
+- Um dos meus hobbies e cozinha 👨‍🍳 😋 </br>
+-🎮 Gosto de jogos de moba jogando 💻 "DOTA" e FPS multijogadores jogando "COD"</br>
 Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer novas amizades.🏆 </br>
 </br>
 <div align="center">
