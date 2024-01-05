@@ -6,10 +6,26 @@
 - 👀 Tenho mais afinidade com as liguagem no-code low-code</br>
 - 📚 Cursando Analise e desenvolvimento de sistema ADS</br>
 - 📫 Estudando HTLM, CSS e Javascrip</br>
+- ✅ Curso figma (ALURA) </br>
 - ✅ Faço parte da comunidade sem coda</br>
+
 - Um dos meus hobbies e cozinha 👨‍🍳 😋 </br>
 -🎮 Gosto de jogos de moba jogando 💻 "DOTA" e FPS multijogadores jogando "COD"</br>
 Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer novas amizades.🏆 </br>
+
+- *PROJETOS*</br>
+- ✅ PEDPIZZA: https://pedpizza.bubbleapps.io/version-test/apresentapizzarias </br>
+- ✅ PEDPIZZA: https://aplicativo-de-agendamento-70788.bubbleapps.io/version-test </br>
+- ✅ PEDPIZZA: https://dnacenter-20.bubbleapps.io/version-test </br>
+- ✅ PEDPIZZA: https://cardapio-digital-45977.bubbleapps.io/version-test </br>
+- ✅ PEDPIZZA: https://agendeconnect.bubbleapps.io/version-test? </br>
+
+- *PROJETOS PARTICIPAÇÃO*</br>
+- ✅ PEDPIZZA: https://softsmile.net/version-test? </br>
+  * Criação de paginas
+  * Responsividade
+  * Coreção de erros
+
 </br>
 <div align="center">
   <div align="center">
