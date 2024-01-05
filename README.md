@@ -15,13 +15,13 @@ Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer 
 
 - *PROJETOS*</br>
 - ✅ PEDPIZZA: https://pedpizza.bubbleapps.io/version-test/apresentapizzarias </br>
-- ✅ PEDPIZZA: https://aplicativo-de-agendamento-70788.bubbleapps.io/version-test </br>
-- ✅ PEDPIZZA: https://dnacenter-20.bubbleapps.io/version-test </br>
-- ✅ PEDPIZZA: https://cardapio-digital-45977.bubbleapps.io/version-test </br>
-- ✅ PEDPIZZA: https://agendeconnect.bubbleapps.io/version-test? </br>
+- ✅ AGENDA DIGITAL: https://aplicativo-de-agendamento-70788.bubbleapps.io/version-test </br>
+- ✅ FORMULARIOS/SISTEMAS INTERNOS: https://dnacenter-20.bubbleapps.io/version-test </br>
+- ✅ CARDAPIODIGTAL: https://cardapio-digital-45977.bubbleapps.io/version-test </br>
+- ✅ AGENDA/FIDELIZADA: https://agendeconnect.bubbleapps.io/version-test? </br>
 
 - *PROJETOS PARTICIPAÇÃO*</br>
-- ✅ PEDPIZZA: https://softsmile.net/version-test? </br>
+- ✅ LOCALÇÃO/VENDA/GUICHO: https://softsmile.net/version-test? </br>
   * Criação de paginas
   * Responsividade
   * Coreção de erros
