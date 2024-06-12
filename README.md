@@ -13,12 +13,15 @@
 -🎮 Gosto de jogos de moba jogando 💻 "DOTA" e FPS multijogadores jogando "COD"</br>
 Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer novas amizades.🏆 </br>
 
-- *PROJETOS*</br>
+- *PROJETOS EM BUBBLE*</br>
 - ✅ PEDPIZZA: https://pedpizza.bubbleapps.io/version-test/apresentapizzarias </br>
 - ✅ AGENDA DIGITAL: https://aplicativo-de-agendamento-70788.bubbleapps.io/version-test </br>
 - ✅ FORMULARIOS/SISTEMAS INTERNOS: https://dnacenter-20.bubbleapps.io/version-test </br>
 - ✅ CARDAPIODIGTAL: https://cardapio-digital-45977.bubbleapps.io/version-test </br>
 - ✅ AGENDA/FIDELIZADA: https://agendeconnect.bubbleapps.io/version-test? </br>
+- ✅ GRUPOVIEIRA: https://dnacenter-20-37232.bubbleapps.io/version-test? </br>
+- ✅ SOFTTOP CRM : https://softtop.bubbleapps.io/version-test/usercmp? </br>
+
 
 - *PROJETOS PARTICIPAÇÃO*</br>
 - ✅ LOCALÇÃO/VENDA/GUICHO: https://softsmile.net/version-test? </br>
