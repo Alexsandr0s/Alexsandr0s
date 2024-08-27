@@ -7,6 +7,9 @@
 - 📚 Cursando Analise e desenvolvimento de sistema ADS</br>
 - 📫 Estudando HTLM, CSS e Javascrip</br>
 - ✅ Curso figma (ALURA) </br>
+- ✅ Curso de desenvolvimento no-code (nocodeclub) </br>
+- ✅ Curso de trafégo (pedrosobral) </br>
+- ✅ Curso de automação (automatiklabs) </br>
 - ✅ Faço parte da comunidade sem coda</br>
 
 - Um dos meus hobbies e cozinha 👨‍🍳 😋 </br>
@@ -14,6 +17,7 @@
 Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer novas amizades.🏆 </br>
 
 - *PROJETOS EM BUBBLE*</br>
+- ✅ INOVACODIGO AGENDAMENTO : https://inovaagenda.com </br>
 - ✅ PEDPIZZA: https://pedpizza.bubbleapps.io/version-test/apresentapizzarias </br>
 - ✅ AGENDA DIGITAL: https://aplicativo-de-agendamento-70788.bubbleapps.io/version-test </br>
 - ✅ FORMULARIOS/SISTEMAS INTERNOS: https://dnacenter-20.bubbleapps.io/version-test </br>
