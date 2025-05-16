@@ -8,6 +8,8 @@
 - 📫 Estudando HTLM, CSS e Javascrip</br>
 - ✅ Curso figma (ALURA) </br>
 - ✅ Curso de desenvolvimento no-code (nocodeclub) </br>
+- ✅ Curso da google IT support (coursera) </br>
+- ✅ Curso BI e banco de dados SQL (Empowerdata) </br>
 - ✅ Curso de trafégo (pedrosobral) </br>
 - ✅ Curso de automação (automatiklabs) </br>
 - ✅ Faço parte da comunidade sem coda</br>
