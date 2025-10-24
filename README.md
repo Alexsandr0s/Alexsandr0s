@@ -28,6 +28,13 @@ Não sou o melhor nem o pior gosto de jogar para conhecer novas pessoas e fazer 
 - ✅ GRUPOVIEIRA: https://dnacenter-20-37232.bubbleapps.io/version-test? </br>
 - ✅ SOFTTOP CRM : https://softtop.bubbleapps.io/version-test/usercmp? </br>
 
+- *PROJETOS EM N8N*</br>
+- ✅ Agente de atendimento para livraira
+- ✅ Agente CDR de atendimento para salão
+- ✅ OUVIDORIA MULTIAGENTES
+- ✅ Clinica odontologica
+
+
 
 - *PROJETOS PARTICIPAÇÃO*</br>
 - ✅ LOCALÇÃO/VENDA/GUICHO: https://softsmile.net/version-test? </br>
